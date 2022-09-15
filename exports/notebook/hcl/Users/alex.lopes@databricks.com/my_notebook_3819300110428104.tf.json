@@ -1,0 +1,11 @@
+{
+    "resource": {
+        "databricks_notebook": {
+            "databricks_notebook_Users_alex_lopes_databricks_com_my_notebook_3819300110428104": {
+                "language": "PYTHON",
+                "path": "/Users/alex.lopes@databricks.com/my_notebook",
+                "source": "my_notebook_3819300110428104.py"
+            }
+        }
+    }
+}
